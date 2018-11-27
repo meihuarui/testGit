@@ -5,6 +5,5 @@ public class GitDemo {
         System.out.println("gitDemo01");
          System.out.println("gitDemo01");
          System.out.println("gitDemo01");
-         System.out.println("gitDemo02");
     }
 }
