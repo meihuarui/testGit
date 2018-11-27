@@ -9,5 +9,6 @@ public class GitDemo {
         System.out.println("git测试ignore");
         System.out.println("git测试创建1128分支");
         System.out.println("git测试创建回滚");
+        System.out.println("git测试创建回滚2");
     }
 }
