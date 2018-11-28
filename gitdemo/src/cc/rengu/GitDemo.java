@@ -7,6 +7,5 @@ public class GitDemo {
          System.out.println("gitDemo01");
         System.out.println("git测试回滚");
         System.out.println("git测试回滚2");
-        System.out.println("测试bash回滚标记");
     }
 }
