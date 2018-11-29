@@ -8,5 +8,6 @@ public class GitDemo {
         System.out.println("git测试回滚");
         System.out.println("git测试ignore");
         System.out.println("git测试new branch");
+        System.out.println("git测试1130");
     }
 }
