@@ -14,4 +14,10 @@ public class TestSpringBoot {
         userDemo.setName(name);
         return userDemo;
     }
+    @RequestMapping("hello2")
+    public UserDemo test( UserDemo userDemo) {
+        System.out.println(userDemo.getAge());
+        System.out.println(userDemo.getName());
+        return userDemo;
+    }
 }
